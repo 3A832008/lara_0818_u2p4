@@ -29,7 +29,7 @@
 @include('layouts.partials.navigation')，
 
 <!-- Page Header -->
-@yield('content')
+
 
 <!-- Main Content -->
 @yield('content')
